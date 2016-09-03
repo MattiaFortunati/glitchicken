@@ -15,8 +15,7 @@ Browser compatibilities tested:
 Developed with the aim of learning, experimenting and having fun with fellow developers.
 Developed for the 2016 edition of js13kGames competition.  
 The main rule of the competition is to keep the final game package under 13,312 bytes.  
-The theme for the 2016 edition is "Glitch".  
-Click here to learn more about the Js13kGames competition!
+The theme for the 2016 edition is "Glitch".
 
 ### TECHNICAL INFORMATION
 Libs used:  
